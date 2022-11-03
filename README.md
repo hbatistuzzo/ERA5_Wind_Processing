@@ -1,5 +1,10 @@
 # ERA5_Wind_Processing
 
+![GitHub top language](https://img.shields.io/github/languages/top/claudiagarcia0204/Projeto-Final---Olist)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/claudiagarcia0204/Projeto-Final---Olist)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/claudiagarcia0204/Projeto-Final---Olist)
+![GitHub last commit](https://img.shields.io/github/last-commit/claudiagarcia0204/Projeto-Final---Olist)
+
 - Python 3.8.13
 	- Numpy 1.20.3
 	- Seaborn 0.11.2
@@ -42,10 +47,5 @@ Finally, it also spits out Hovmoller diagrams for each of the latitudes of inter
 <br/>
 I managed to do some neat animations with matplotlib and cartopy!
 <p align="center"><img src="https://im3.ezgif.com/tmp/ezgif-3-058b56cfa6.gif" width="100%" alt="cake"></p>
-
-![GitHub top language](https://img.shields.io/github/languages/top/hbatistuzzo/ERA5_Wind_Processing)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/hbatistuzzo/ERA5_Wind_Processing)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hbatistuzzo/ERA5_Wind_Processing)
-![GitHub last commit](https://img.shields.io/github/last-commit/hbatistuzzo/ERA5_Wind_Processing)
 
 
