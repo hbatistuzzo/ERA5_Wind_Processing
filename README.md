@@ -43,9 +43,9 @@ Finally, it also spits out Hovmoller diagrams for each of the latitudes of inter
 I managed to do some neat animations with matplotlib and cartopy!
 <p align="center"><img src="https://im3.ezgif.com/tmp/ezgif-3-058b56cfa6.gif" width="100%" alt="cake"></p>
 
-![GitHub top language](https://img.shields.io/github/languages/top/Automedon/codewars)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Automedon/codewars)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Automedon/codewars)
-![GitHub last commit](https://img.shields.io/github/last-commit/Automedon/codewars)
+![GitHub top language](https://img.shields.io/github/languages/top/hbatistuzzo/codewars)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/hbatistuzzo/codewars)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hbatistuzzo/codewars)
+![GitHub last commit](https://img.shields.io/github/last-commit/hbatistuzzo/codewars)
 
 
