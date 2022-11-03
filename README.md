@@ -1,9 +1,9 @@
 # ERA5_Wind_Processing
 
-![GitHub top language](https://img.shields.io/github/languages/top/claudiagarcia0204/Projeto-Final---Olist)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/claudiagarcia0204/Projeto-Final---Olist)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/claudiagarcia0204/Projeto-Final---Olist)
-![GitHub last commit](https://img.shields.io/github/last-commit/claudiagarcia0204/Projeto-Final---Olist)
+![GitHub top language](https://img.shields.io/github/languages/top/hbatistuzzo/Era5_Wind_Processing)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/hbatistuzzo/Era5_Wind_Processing)
+![GitHub code size in bytes](https://img.shields.io/github/languages/hbatistuzzo/claudiagarcia0204/Era5_Wind_Processing)
+![GitHub last commit](https://img.shields.io/github/last-commit/hbatistuzzo/Era5_Wind_Processing)
 
 - Python 3.8.13
 	- Numpy 1.20.3
