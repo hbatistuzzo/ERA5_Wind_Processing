@@ -24,10 +24,10 @@ the plotting of mean +/- standard deviation contours, which are also applied in 
 
 
 There is also some snippets to plot "zoomed-in" data in a regular lat-long cartesian projection, as below:
-<p align="center"><img src="ilhas_full_u10n_mean2" alt="ilhas" width="75%"></p>
-|:--:|
-| <b>The dot marks the location of the St. Peter & St. Paul archipelago</b>|
-
+<figure>
+<p align="center"><img src="ilhas_full_u10n_mean2.png" alt="ilhas" width="75%"></p>
+<figcaption align = "center"><b>The dot marks the location of the St. Peter & St. Paul archipelago</b></figcaption>
+</figure>
 It uses dask to optimize the code run (as opening these many netcdf files in nested concatenation is not a trivial task). Even less trivial is performing the chronological
 mean for the monthly climatology. Big kudos to those who created this awesome tool.
 
