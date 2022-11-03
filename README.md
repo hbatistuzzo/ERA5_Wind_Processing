@@ -2,7 +2,7 @@
 
 ![GitHub top language](https://img.shields.io/github/languages/top/hbatistuzzo/Era5_Wind_Processing)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/hbatistuzzo/Era5_Wind_Processing)
-![GitHub code size in bytes](https://img.shields.io/github/languages/hbatistuzzo/Era5_Wind_Processing)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hbatistuzzo/Era5_Wind_Processing)
 ![GitHub last commit](https://img.shields.io/github/last-commit/hbatistuzzo/Era5_Wind_Processing)
 
 - Python 3.8.13
