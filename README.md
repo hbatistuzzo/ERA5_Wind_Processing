@@ -17,8 +17,7 @@ ERA5 is the fifth generation ECMWF atmospheric reanalysis of the global climate 
 
 ERA5 provides hourly estimates of a large number of atmospheric, land and oceanic climate variables. The data cover the Earth on a 30km grid and resolve the
 atmosphere using 137 levels from the surface up to a height of 80km. ERA5 includes information about uncertainties for all variables at reduced spatial and
-temporal resolutions.<br/>
-
+temporal resolutions.
 
 <br/>
 In this project I've created some functions to help plot zonal and meridional wind data. The code also performs some previous statistics on the dataset to allow 
