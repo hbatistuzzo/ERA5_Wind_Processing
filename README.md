@@ -30,9 +30,8 @@ There is also some snippets to plot "zoomed-in" data in a regular lat-long carte
 <p align = "center">
 <img src="ilhas_full_u10n_mean2.png" alt="ilhas2" width="75%">
 </p>
-The dot marks the location of the St. Peter & St. Paul archipelago
 <p align = "center">
-Fig.1 - 4K Mountains Wallpaper
+The dot marks the location of the St. Peter & St. Paul archipelago
 </p>
 
 <br/>
